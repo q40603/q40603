@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi :))))
 
-<!--
-**q40603/q40603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I am Quentin and I'm currently pursuing my master's degree from National Yang Ming Chiao Tung University.
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=q40603&theme=bear&show_icons=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=q40603&theme=bear&layout=compact&card_width=445)
+
+---
+
+## EDUCATION
+### National Yang Ming Chiao Tung University (NYCU)
+- Master of Science in Cyber Security (Anticipated graduation in 7/2022)
+
+### National Chiao Tung University (NCTU)
+- Sep. 2016 - Jul. 2020
+- Bachelor of Science in Computer Science
+- GPA: 3.65/4.3
