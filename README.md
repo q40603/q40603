@@ -1,6 +1,6 @@
 ## Hi :))))
 
-Hi I am Quentin and I'm currently pursuing my master's degree from National Yang Ming Chiao Tung University.
+Hi I am Quentin and I'm currently pursuing my master's degree at National Yang Ming Chiao Tung University.
 
 ![](https://github-readme-stats.vercel.app/api?username=q40603&theme=bear&show_icons=true&count_private=true)
 
