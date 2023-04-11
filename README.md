@@ -1,6 +1,6 @@
 ## Hi :))))
 
-Hi I am Quentin and I'm currently pursuing my master's degree at National Yang Ming Chiao Tung University.
+Hi I am Quentin and I'm currently serving as a SWE in Test at Nvidia
 
 ![](https://github-readme-stats.vercel.app/api?username=q40603&theme=bear&show_icons=true&count_private=true)
 
@@ -9,8 +9,17 @@ Hi I am Quentin and I'm currently pursuing my master's degree at National Yang M
 ---
 
 ## EDUCATION
+### Polytechnique Montréal Canada
+- Sep. 2022 - Dec. 2022
+- Exchange student in Software Cluster
+- Relevant courses taken: Software Quality Engineering, Software Architecture and Advanced Design
+- GPA 4.0/4.0
+
 ### National Yang Ming Chiao Tung University (NYCU)
-- Master of Science in Cyber Security (Anticipated graduation in 7/2022)
+- Sep. 2020 - Aug. 2022
+- Master of Science in Cyber Security
+- Relevant courses taken: Numerical Software Design, Natural Language Processing, Real Time Operating System
+- GPA 4.09/4.3
 
 ### National Chiao Tung University (NCTU)
 - Sep. 2016 - Jul. 2020
