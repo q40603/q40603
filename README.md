@@ -10,18 +10,18 @@ Hi I am Quentin and I'm currently serving as a SWE in Test at Nvidia
 
 ## EDUCATION
 ### Polytechnique Montréal Canada
-- Sep. 2022 - Dec. 2022
+- Sept. 2022 - Dec. 2022
 - Exchange student in Software Cluster
 - Relevant courses taken: Software Quality Engineering, Software Architecture and Advanced Design
 - GPA 4.0/4.0
 
 ### National Yang Ming Chiao Tung University (NYCU)
-- Sep. 2020 - Aug. 2022
+- Sept. 2020 - Aug. 2022
 - Master of Science in Cyber Security
 - Relevant courses taken: Numerical Software Design, Natural Language Processing, Real Time Operating System
 - GPA 4.09/4.3
 
 ### National Chiao Tung University (NCTU)
-- Sep. 2016 - Jul. 2020
+- Sept. 2016 - Jul. 2020
 - Bachelor of Science in Computer Science
 - GPA: 3.65/4.3
