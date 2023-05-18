@@ -1,6 +1,5 @@
 ## Hi :))))
 
-Hi I am Quentin and I'm currently serving as a SWE in Test at Nvidia
 
 ![](https://github-readme-stats.vercel.app/api?username=q40603&theme=bear&show_icons=true&count_private=true)
 
